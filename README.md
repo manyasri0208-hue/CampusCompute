@@ -1,4 +1,4 @@
-# CampusCompute SmartLab — Member 1
+# CampusCompute SmartLab —
 
 This is the Member 1 implementation:
 - FR1: job creation, validation, unique IDs and job states
