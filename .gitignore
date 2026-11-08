@@ -1,0 +1,13 @@
+# Compiled executable
+campuscompute
+
+# Object files
+*.o
+
+# Log output
+logs/*.log
+
+# Temporary files
+*.tmp
+*.swp
+*~
